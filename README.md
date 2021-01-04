@@ -2,7 +2,8 @@
 
 ### My Tech
 <!--
-![Python](https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=python&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Django](https://img.shields.io/badge/-Django-%0A3C0E?style=flat-square&logo=django&logoColor=ffffff)
 -->
 
 ### Front End
@@ -13,7 +14,9 @@
 -->
 
 ### Database
+<!--
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+-->
 
 ### Other
 <!--
