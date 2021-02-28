@@ -17,6 +17,8 @@
 ### Other
 - VS Code
 - Ubuntu/Ubuntu Server
+- Convert PSD to HTML/CSS
+- Cut Logo, Image from PSD to *.PNG, *.JPGE
 
 ### Project
 
