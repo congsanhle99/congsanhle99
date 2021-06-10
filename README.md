@@ -1,4 +1,4 @@
-## Hi! 👋 My name is Le Cong Sanh - Front End WebDev
+## Hi! 👋 My name is Le Cong Sanh
 
 ### Language and Tools
 <!--
