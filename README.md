@@ -13,6 +13,8 @@
 
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
+![ER Assistant](https://img.shields.io/badge/<-ER Assistant-)
+
 
 ### Other
 - VS Code
