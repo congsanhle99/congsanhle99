@@ -1,31 +1,15 @@
-## Hi! 👋 My name is Le Cong Sanh
+<h1 align="center">Hi 👋, I'm Le Cong Sanh - (+84) 369-489-059</h1>
+<h3 align="center">A passionate frontend developer from Vietnam. Over 6 months of experience in Frontend with good communication and quick learning skills. Primarily, looking for Front-end Developer roles.</h3>
 
-### Technical and Tools
-<!--
-![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=python&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Django](https://img.shields.io/badge/-Django-%0A3C0E?style=flat-square&logo=django&logoColor=ffffff)
--->
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+- 📫 How to reach me **congsanh.work@gmail.com**
 
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/le-cong-sanh-38bbb915b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/le-cong-sanh-38bbb915b/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/coongsanh.9991/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/coongsanh.9991/" height="30" width="40" /></a>
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![React](https://img.shields.io/badge/-ReactJs-%23F7DF1C?style=flat-square&logo=reactjs&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-
-![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-
-![ER Assistant](https://img.shields.io/badge/ER%20Assistant-ERD-brightgreen)
-
-
-### Other
-- VS Code
-- Convert PSD to HTML/CSS
-- Cut Logo, Image from PSD to *.PNG, *.JPGE
-- Ubuntu/Ubuntu Server
-
-### Project
-
-### More information 
-<a href="https://www.facebook.com/coongsanh.9991/">Facebook</a><br>
-<a href="https://www.linkedin.com/in/l%C3%AA-c%C3%B4ng-sanh-38bbb915b/">LinkedIn</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=congsanhle99&show_icons=true&locale=en" alt="congsanhle99" /></p>
