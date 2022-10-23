@@ -10,6 +10,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-ReactJs-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
