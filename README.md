@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Le Cong Sanh</h1>
+<h1 align="left">Hi, 👋 I'm Le Cong Sanh</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">📫 How to reach me **congsanh.work@gmail.com** or **(+84) 369-489-059**</h2>
+<h2 align="left">📫 How to reach me **congsanh.work@gmail.com** or <br/> **(+84) 369-489-059**</h2>
 
 ###
 
