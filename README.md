@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate frontend developer from Vietnam. Over 6 months of experience in Frontend with good communication and quick learning skills. Primarily, looking for Front-end Developer roles. To work in a dynamic professional environment with a growing organization and utilize my creativity and thinking for benefit of the organization and myself.</p>
+<p align="left">Front-End Developer with 2+ years of experience specializing in React/Next.js and Vue/Nuxt.js. Experienced in developing high-performance, responsive, and user-centric web applications across the full software development lifecycle. A proactive and adaptable team player with strong ownership, problem-solving skills, and a commitment to continuous learning, effective collaboration, and delivering high-quality products.</p>
 
 ###
 
